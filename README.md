@@ -1,4 +1,4 @@
-# Implementacin-de-Honeytoken-en-Linux-Ubuntu
+# Implementacion-de-Honeytoken-en-Linux-Ubuntu
 Alertas en tiempo real para monitoreo de accesos en Linux en archivos sensibles
 
 Implementación de Honeytoken con alertas en tiempo real para monitoreo de accesos en Linux
