@@ -1,9 +1,9 @@
 # Implementaci-n-de-Honeytoken en Linux Ubuntu-
 Alertas en tiempo real para monitoreo de accesos en Linux en archivos sensibles
 
-“Implementación de Honeytoken con alertas en tiempo real para monitoreo de accesos en Linux”
+Implementación de Honeytoken con alertas en tiempo real para monitoreo de accesos en Linux
 
-“Desarrollé un sistema de monitoreo para detectar accesos no autorizados a archivos sensibles en un entorno Linux. El proyecto combina auditoría de sistema, notificaciones en tiempo real y automatización para mejorar la seguridad interna.”
+Desarrollé un sistema de monitoreo para detectar accesos no autorizados a archivos sensibles en un entorno Linux. El proyecto combina auditoría de sistema, notificaciones en tiempo real y automatización para mejorar la seguridad interna.
 
 Configuración de auditd para auditar accesos a archivos críticos.
 
